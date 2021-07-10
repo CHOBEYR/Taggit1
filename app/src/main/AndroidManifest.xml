@@ -10,13 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.TestAppForGit">
         <activity
-            android:name=".MainActivity6"
-            android:label="@string/title_activity_main6"
-            android:theme="@style/Theme.TestAppForGit.NoActionBar"></activity>
-        <activity
             android:name=".MainActivity5"
             android:label="@string/title_activity_main5"
-            android:theme="@style/Theme.TestAppForGit.NoActionBar" />
+            android:theme="@style/Theme.TestAppForGit.NoActionBar"></activity>
         <activity
             android:name=".MainActivity4"
             android:label="@string/title_activity_main4"
